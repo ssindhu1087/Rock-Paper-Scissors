@@ -20,9 +20,9 @@ A simple Rock Paper Scissors game built with HTML, CSS, and JavaScript. Play aga
 - The computer will randomly pick a move.
 - The winner is displayed.
 - The winner is determined using standard rules:
-  <pre>    - Rock beats Scissors </pre>
-  <pre>    - Scissors beats Paper </pre>
-  <pre>    - Paper beats Rock </pre>
+    - Rock beats Scissors 
+    - Scissors beats Paper 
+    - Paper beats Rock 
  
 ## Future Enhancements
 
